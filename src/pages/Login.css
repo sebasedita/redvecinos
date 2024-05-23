@@ -1,0 +1,32 @@
+/* src/pages/Login.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background: linear-gradient(to right, rgba(128, 0, 128, 0.1), rgba(255, 162, 0, 0.1));
+    border-radius: 35px;
+  }
+
+  .icono-login {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 96px;
+    border-radius: 50%;
+    border: 8px solid #bb2020;
+    color: #bb2020;
+    margin: 0 auto;
+}
+
+  .login-form .MuiTextField-root {
+    margin-bottom: 20px;
+  }
+
+  

@@ -1,0 +1,6 @@
+src/Card.css 
+.card__stars {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+  }

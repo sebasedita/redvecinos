@@ -1,0 +1,11 @@
+/* src/pages/Home.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 80px;
+  padding: 80px;
+}
+
+.container {
+  padding: 20px;
+}
